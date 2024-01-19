@@ -9,7 +9,7 @@ There are two main sources for the dataset. The first set, covering secondary ac
 
 ## Fig. 2: Multiple-window scanning deep learning networks
 
-![]()
+![](https://github.com/Malik-glt/Decoding-Cellular-Functions/blob/main/Multiple-window%20CNN.png)
 
 ## References
 1.	UniProt: the Universal Protein knowledgebase in 2023. Nucleic Acids Research, 2023. 51(D1): p. D523-D531.
