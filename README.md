@@ -15,3 +15,19 @@ There are two main sources for the dataset. The first set, covering secondary ac
 1.	UniProt: the Universal Protein knowledgebase in 2023. Nucleic Acids Research, 2023. 51(D1): p. D523-D531.
 2.	Pizzagalli, M.D., A. Bensimon, and G. Superti‐Furga, A guide to plasma membrane solute carrier proteins. The FEBS journal, 2021. 288(9): p. 2784-2835.
 3.	Elnaggar, A., et al., ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning. IEEE Trans Pattern Anal Mach Intell, 2022. 44(10): p. 7112-7127.
+
+## Citation
+
+If you use this repository, please cite the following paper:
+
+```bibtex
+@ARTICLE{malik2024,
+  author = {Malik, M. S., Le, V. T., Shah, S. M. A., & Ou, Y. Y.},
+  title = {MCNN-AAPT: accurate classification and functional prediction of amino acid and peptide transporters in secondary active transporters using protein language models and multi-window deep learning},
+  journal = {Journal of Biomolecular Structure and Dynamics},
+  volume = {Nov},
+  pages = {1–10},
+  year = {2024},
+  publisher = {Taylor & Francis},
+  doi = {https://doi.org/10.1080/07391102.2024.2431664}
+}
